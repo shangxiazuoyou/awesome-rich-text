@@ -31,3 +31,5 @@
 - [ZSSRichTextEditor-ios](https://github.com/nnhubbard/ZSSRichTextEditor) -A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view
 
 - [SJTextViewDemo-ios](https://github.com/576410448/SJTextViewDemo) -基于UITextView富文本编辑与展示（仿简书）
+
+- [MRichEditor](https://github.com/Even201314/MRichEditor) -A rich text editor sample (based on summernote)
