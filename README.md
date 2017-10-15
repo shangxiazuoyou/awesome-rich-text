@@ -33,3 +33,16 @@
 - [SJTextViewDemo-ios](https://github.com/576410448/SJTextViewDemo) -基于UITextView富文本编辑与展示（仿简书）
 
 - [MRichEditor](https://github.com/Even201314/MRichEditor) -A rich text editor sample (based on summernote)
+
+- [richeditor-android](https://github.com/luozhimin0918/richeditor-android)
+
+- [RichEditor](https://github.com/tz-xiaomage/RichEditor)
+
+- [RTextEditorView](https://github.com/jkennethcarino/RTextEditorView) -A simple WYSIWYG editor for Android
+
+- [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) -An advanced note editor plug-in for AnkiDroid (work-in-progress :pick:)
+
+- [AnimRichEditor](https://github.com/xmuSistone/AnimRichEditor) -rich text editor which enables users to insert/delete bitmaps and text into edit-view with animations
+
+- [RichEditor](https://github.com/JustYJQ/RichEditor) -类似新浪微博的EditText，可@某人，#插入话题，表情等
+
