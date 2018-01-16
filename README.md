@@ -47,3 +47,5 @@
 - [RichEditor](https://github.com/JustYJQ/RichEditor) -类似新浪微博的EditText，可@某人，#插入话题，表情等
 
 - [are](https://github.com/chinalwb/are) -Android Rich Text Editor 富文本编辑器 图文混排
+
+- [Knife](https://github.com/mthli/Knife) -Knife is a rich text editor component for writing documents in Android
