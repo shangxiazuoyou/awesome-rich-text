@@ -49,3 +49,5 @@
 - [are](https://github.com/chinalwb/are) -Android Rich Text Editor 富文本编辑器 图文混排
 
 - [Knife](https://github.com/mthli/Knife) -Knife is a rich text editor component for writing documents in Android
+
+- [Android-RTEditor](https://github.com/1gravity/Android-RTEditor) -The Android RTEditor is a rich text editor component for Android that can be used as a drop in for EditText
