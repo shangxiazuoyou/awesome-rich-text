@@ -51,3 +51,5 @@
 - [Knife](https://github.com/mthli/Knife) -Knife is a rich text editor component for writing documents in Android
 
 - [Android-RTEditor](https://github.com/1gravity/Android-RTEditor) -The Android RTEditor is a rich text editor component for Android that can be used as a drop in for EditText
+
+- [KRichEditor](https://github.com/daothanhduy305/KRichEditor) -A rich text editor (based on QuillJs and MRichTextEditor) ported to Kotlin
