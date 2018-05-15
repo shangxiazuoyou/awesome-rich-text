@@ -53,3 +53,5 @@
 - [Android-RTEditor](https://github.com/1gravity/Android-RTEditor) -The Android RTEditor is a rich text editor component for Android that can be used as a drop in for EditText
 
 - [KRichEditor](https://github.com/daothanhduy305/KRichEditor) -A rich text editor (based on QuillJs and MRichTextEditor) ported to Kotlin
+
+- [Android-Rich-text-Editor](https://github.com/chinalwb/Android-Rich-text-Editor)
