@@ -55,3 +55,5 @@
 - [KRichEditor](https://github.com/daothanhduy305/KRichEditor) -A rich text editor (based on QuillJs and MRichTextEditor) ported to Kotlin
 
 - [Android-Rich-text-Editor](https://github.com/chinalwb/Android-Rich-text-Editor)
+
+- [Knife](https://github.com/mthli/Knife) -Knife is a rich text editor component for writing documents in Android.
