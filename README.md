@@ -59,3 +59,5 @@
 - [Knife](https://github.com/mthli/Knife) -Knife is a rich text editor component for writing documents in Android.
 
 - [RichEditor](https://github.com/DrownCoder/RichEditor) -基于RecyclerView实现的富文本编辑器，支持多样式，链接，引用，图片等功能
+
+- [RichText](https://github.com/oyd5201/RichText)
