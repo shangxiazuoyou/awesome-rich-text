@@ -32,13 +32,13 @@
 
 - [SJTextViewDemo-ios](https://github.com/576410448/SJTextViewDemo) -基于UITextView富文本编辑与展示（仿简书）
 
-- [MRichEditor](https://github.com/Even201314/MRichEditor) -A rich text editor sample (based on summernote)
+- [MRichEditor](https://github.com/Even201314/MRichEditor) -A rich text editor sample (based on summernote),使用体验较好
 
 - [richeditor-android](https://github.com/luozhimin0918/richeditor-android)
 
 - [RichEditor](https://github.com/tz-xiaomage/RichEditor)
 
-- [RTextEditorView](https://github.com/jkennethcarino/RTextEditorView) -A simple WYSIWYG editor for Android
+- [RTextEditorView](https://github.com/jkennethcarino/RTextEditorView) -A simple WYSIWYG editor for Android,使用体验较好
 
 - [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) -An advanced note editor plug-in for AnkiDroid (work-in-progress :pick:)
 
@@ -52,7 +52,7 @@
 
 - [Android-RTEditor](https://github.com/1gravity/Android-RTEditor) -The Android RTEditor is a rich text editor component for Android that can be used as a drop in for EditText
 
-- [KRichEditor](https://github.com/daothanhduy305/KRichEditor) -A rich text editor (based on QuillJs and MRichTextEditor) ported to Kotlin
+- [KRichEditor](https://github.com/daothanhduy305/KRichEditor) -A rich text editor (based on QuillJs and MRichTextEditor) ported to Kotlin,使用体验：UI效果及实际体验都不错
 
 - [Android-Rich-text-Editor](https://github.com/chinalwb/Android-Rich-text-Editor)
 
