@@ -63,3 +63,5 @@
 - [RichText](https://github.com/oyd5201/RichText)
 
 - [AztecEditor-Android](https://github.com/wordpress-mobile/AztecEditor-Android) -A reusable native Android rich text editor component.
+
+- [Android-WYSIWYG-Editor](https://github.com/irshuLx/Android-WYSIWYG-Editor)
