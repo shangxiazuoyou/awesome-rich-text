@@ -1,5 +1,6 @@
 # 富文本收集
 
+##Android版
 - [richeditor-android](https://github.com/wasabeef/richeditor-android) -RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android (star数最高)
 
 - [XRichText](https://github.com/sendtion/XRichText) -功能少，支持图文混排，插入和删除图片，重在体验好
@@ -65,3 +66,6 @@
 - [AztecEditor-Android](https://github.com/wordpress-mobile/AztecEditor-Android) -A reusable native Android rich text editor component.
 
 - [Android-WYSIWYG-Editor](https://github.com/irshuLx/Android-WYSIWYG-Editor)
+
+##iOS版
+- [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
