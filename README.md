@@ -67,5 +67,7 @@
 
 - [Android-WYSIWYG-Editor](https://github.com/irshuLx/Android-WYSIWYG-Editor)
 
+- [SRich](https://github.com/ChyengJason/SRich)
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
