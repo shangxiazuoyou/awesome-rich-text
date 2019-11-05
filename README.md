@@ -69,5 +69,7 @@
 
 - [SRich](https://github.com/ChyengJason/SRich)
 
+- [RichEditText](https://github.com/lwq0739/RichEditText)
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
