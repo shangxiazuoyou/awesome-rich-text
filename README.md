@@ -77,5 +77,7 @@
 
 - [RichEditor](https://github.com/RexSuper/RichEditor) -知乎 有道云笔记 编辑 均可实现 The method adopted in this project is to put static web pages into the project, call various rich text editing functions of HTML through interaction between WebView JS and html, and add some detail requirements optimization to provide certain extensibility.（Ps看这介绍挺厉害的，我明天试试）
 
+- [RichTextEditor](https://github.com/dankito/RichTextEditor) -Rich text WYSIWYG editor for Android and JavaFX
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
