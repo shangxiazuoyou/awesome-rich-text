@@ -79,5 +79,7 @@
 
 - [RichTextEditor](https://github.com/dankito/RichTextEditor) -Rich text WYSIWYG editor for Android and JavaFX
 
+- [RichEditotAndroid](https://github.com/ZQ330093887/RichEditotAndroid) -WebView + JavaScript 方式的实现一个android富文本编辑器
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
