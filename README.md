@@ -83,5 +83,7 @@
 
 - [RichEditor](https://github.com/RexSuper/RichEditor)
 
+- [RichEditTextCopyToutiao](https://github.com/lihangleo2/RichEditTextCopyToutiao) -android高仿今日头条富文本编辑
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
