@@ -85,5 +85,7 @@
 
 - [RichEditTextCopyToutiao](https://github.com/lihangleo2/RichEditTextCopyToutiao) -android高仿今日头条富文本编辑
 
+- [sora-editor](https://github.com/Rosemoe/sora-editor) -A cool code editor library on Android with syntax-highlighting and auto-completion. (aka CodeEditor)
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
