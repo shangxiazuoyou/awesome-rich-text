@@ -87,5 +87,7 @@
 
 - [sora-editor](https://github.com/Rosemoe/sora-editor) -A cool code editor library on Android with syntax-highlighting and auto-completion. (aka CodeEditor)
 
+- [spannable](https://github.com/liangjingkanji/spannable) -(Android最好的Spannable富文本工具, 唯一支持正则匹配/图文混排/图标/GIF动画/自定义表情包)
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
