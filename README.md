@@ -89,5 +89,7 @@
 
 - [spannable](https://github.com/liangjingkanji/spannable) -(Android最好的Spannable富文本工具, 唯一支持正则匹配/图文混排/图标/GIF动画/自定义表情包)
 
+- [RtText](https://github.com/ChangJiahong/RtText)
+
 ##iOS版
 - [RZRichTextView](https://github.com/rztime/RZRichTextView) -iOS 原生UITextView 富文本编辑器
